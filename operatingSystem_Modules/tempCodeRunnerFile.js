@@ -1,0 +1,2 @@
+mem();
+console.log(a); 
